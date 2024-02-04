@@ -10,4 +10,4 @@
 
 ## Other
 
-Other model files are relatively large. If you need them, please feel free to contact me via email nielongfeng@outlook.com.
+Other model files are relatively large. If you need them and have any questions, please feel free to contact me via email metdai@outlook.com .
